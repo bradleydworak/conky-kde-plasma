@@ -1,5 +1,5 @@
 # conky-kde-plasma
-Conky v1.12 configuration example for KDE Plasma 5
+Conky v1.12 configuration example with custom colors for KDE Plasma 5
 
 Displays information for AMD CPU, NVIDIA GPU, APC Backup, and USB devices
 ```
